@@ -119,7 +119,7 @@ Pada dashboard diperoleh hasil analisis sebagai berikut.
 
 Dashboard juga dilengkapi dengan tabel data karyawan aktif beserta prediksi risiko attrition masing-masing karyawan.
 
-Untuk mengakses dashboard menggunakan metabase dengan terlebih dahulu menjalankannya melalui Docker. Kemudian Login dengan Username:dumamora5@gmail.com dan Password: dumdum13
+Untuk mengakses dashboard menggunakan metabase dengan terlebih dahulu menjalankannya melalui Docker. Kemudian Login dengan Username:root@mail.com dan Password: root123
 
 ## Conclusion
 
