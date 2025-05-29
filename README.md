@@ -125,7 +125,7 @@ Untuk mengakses dashboard menggunakan metabase dengan terlebih dahulu menjalanka
 
 Pada proyek ini telah dilakukan analisis data untuk menentukan faktor-faktor apa saja yang mempengaruhi angka Attrition (keluar atau resign) karyawan pada perusahaan Jaya Jaya Maju/ Selain itu, dilakukan pelatihan model untuk prediksi kemungkinan karyawan melakukan attrition.
 
-####1. Faktor-faktor yang Mempengaruhi Attrition
+#### 1. Faktor-faktor yang Mempengaruhi Attrition
 A.   Overtime
 
   Karyawan yang sering bekerja lembur menunjukkan kecenderungan lebih tinggi untuk meninggalkan perusahaan.
