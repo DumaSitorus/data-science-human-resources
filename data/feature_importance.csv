@@ -1,0 +1,11 @@
+Feature,Importance
+OverTime_Yes,0.42497128
+StockOptionLevel,0.14079145
+JobLevel,0.092410915
+MaritalStatus_Single,0.071183875
+Age,0.060086496
+JobInvolvement,0.04927817
+YearsWithCurrManager,0.043218523
+TotalWorkingYears,0.041549686
+YearsAtCompany,0.040370684
+MonthlyIncome,0.036138967
